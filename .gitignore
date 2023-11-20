@@ -1,0 +1,4 @@
+venv
+beat_counter
+INFLUX_CONFIG.py
+__pycache__

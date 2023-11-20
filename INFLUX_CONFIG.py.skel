@@ -1,0 +1,9 @@
+from influxdb_client import InfluxDBClient, Point, WritePrecision
+# influx DB
+token = "API TOKEN HERE"
+org = "ORG HERE"
+bucket = "BUCKET HERE"
+client = InfluxDBClient(url="SERVER URL HERE", token=token)
+point = "POINT"
+data_tag = "TAG"
+# end influx DB

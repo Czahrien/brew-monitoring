@@ -1,0 +1,5 @@
+Create a python3 virtual environment and install:
+* smbus2
+* influxdb_client 
+
+Input API key information and target point into INFLUX_CONFIG.py - copy INFLUX_CONFIG.py.skel to INFLUX_CONFIG.py and set the parameters accordingly.
